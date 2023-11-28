@@ -1,0 +1,14 @@
+{
+  "name": "fetch-data-exercise",
+  "version": "1.0.0",
+  "description": "fetch data exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Murillo",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
